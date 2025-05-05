@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Abel Sifuna</h1>
+<h1 class="text-4xl md:text-5xl font-bold text-center mt-8 animate-fade-in">Hi, I'm Abel Sifuna 👋</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -18,6 +19,15 @@
 - ⚡ Fun fact: I love combining creativity with code to solve real-world problems!
 
 ---
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
+  <div class="bg-white rounded-2xl shadow-md p-6 hover:scale-105 transition">
+    <h3 class="text-xl font-semibold">Web3 Upwork (Decentralized Job Board)</h3>
+    <p class="mt-2 text-gray-700">Built using Solidity, Foundry, React, and zk-SNARKs.</p>
+    <a href="https://github.com/Cfuna22" class="text-blue-500 underline mt-2 block">GitHub Repo</a>
+  </div>
+  <!-- Add more cards for other projects -->
+</div>
+
 
 ### 🚀 Languages and Tools
 
