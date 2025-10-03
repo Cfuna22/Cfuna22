@@ -11,12 +11,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently building: **A decentralized job board (Web3 Upwork)**  
-- 🌱 Learning: **Solidity, zk-SNARKs, DeFi, advanced Python, and CS fundamentals**  
-- 🧠 I enjoy solving: **Real-world problems with smart contracts and clean UIs**  
-- 💬 Ask me about: **Blockchain development, hackathons, or full-stack projects**  
-- 🛠️ Tech Stack: `Solidity`, `Foundry`, `React`, `Tailwind`, `Python`, `MySQL`  
-- ⚡ Fun fact: I love combining creativity with code to solve real-world problems!
+- 🔭 I'm currently building: **A decentralized job board (Web3 Upwork) and modern full-stack platforms**  
+- 🌱 Learning: **zk-SNARKs, DeFi, advanced Python, GraphQL, and system design**  
+- 🧠 I enjoy solving: **Real-world problems with smart contracts, scalable backends, and clean UIs**  
+- 💬 Ask me about: **Blockchain development, Solidity/Foundry, hackathons, or full-stack projects**  
+- 🛠️ Tech Stack: `Solidity`, `Foundry`, `Next.js`, `NestJS`, `React`, `TailwindCSS`, `TypeScript`, `GraphQL`, `Drizzle ORM`, `PostgreSQL`, `Supabase`, `Clerk`, `Docker`, `Linux`, `PNPM`, `Turborepo`  
+- ⚡ Fun fact: I love combining **creativity + code** to solve real-world problems and build communities!
 
 ---
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
