@@ -126,16 +126,16 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://twitter.com/sifuna_abe71661">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/abel-sifuna-327a71393/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/yourinvite">
+  <a href="https://discord.gg/cfuna_abel">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abelsifuna515@com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
