@@ -129,7 +129,7 @@
   <a href="https://twitter.com/sifuna_abe71661">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/abel-sifuna-327a71393/)">
+  <a href="[https://www.linkedin.com/in/abel-sifuna-327a71393">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/cfuna_abel">
