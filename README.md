@@ -110,7 +110,7 @@
   <!-- Dynamic Project Feed from GitHub Daily -->
   <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-2xl shadow-md p-6 hover:scale-105 transition">
     <h3 class="text-xl font-semibold">🚀 Exploring the Latest Tech</h3>
-    <p class="mt-2 text-gray-700">I'm always exploring new tools. Recently, I've been experimenting with AI app builders like <strong>dyad</strong> and code agents like <strong>sst/opencode</strong>.</p>
+    <p class="mt-2 text-gray-700">I'm always exploring new tools. Recently, I've been experimenting with AI app builders like <strong> dyad </strong> and code agents like <strong>sst/opencode</strong>.</p>
     <a href="https://github.com/GitHubDaily/GitHubDaily" class="text-blue-500 underline mt-2 block" target="_blank">Discover more on GitHub Daily →</a>
   </div>
 </div>
