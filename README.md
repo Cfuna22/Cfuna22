@@ -86,37 +86,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
-  <div class="bg-white rounded-2xl shadow-md p-6 hover:scale-105 transition">
-    <h3 class="text-xl font-semibold">Web3 Upwork (Decentralized Job Board)</h3>
-    <p class="mt-2 text-gray-700">A full-stack decentralized platform built with Solidity, Foundry, Next.js, and zk-SNARKs for verifiable credentials.</p>
-    <a href="https://github.com/Cfuna22" class="text-blue-500 underline mt-2 block">View on GitHub →</a>
-  </div>
-  
-  <div class="bg-white rounded-2xl shadow-md p-6 hover:scale-105 transition">
-    <h3 class="text-xl font-semibold">AI-Powered Analytics Dashboard</h3>
-    <p class="mt-2 text-gray-700">A real-time dashboard using privacy-first tools like Plausible and Cabin, with AI agents for automated insight generation.</p>
-    <a href="https://github.com/Cfuna22" class="text-blue-500 underline mt-2 block">View on GitHub →</a>
-  </div>
-  
-  <div class="bg-white rounded-2xl shadow-md p-6 hover:scale-105 transition">
-    <h3 class="text-xl font-semibold">Multi-Agent Workflow Orchestrator</h3>
-    <p class="mt-2 text-gray-700">An open-source system for building and coordinating AI agents, inspired by tools like Google's ADK, to automate complex development and data tasks.</p>
-    <a href="https://github.com/Cfuna22" class="text-blue-500 underline mt-2 block">View on GitHub →</a>
-  </div>
-
-  <!-- Dynamic Project Feed from GitHub Daily -->
-  <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-2xl shadow-md p-6 hover:scale-105 transition">
-    <h3 class="text-xl font-semibold">🚀 Exploring the Latest Tech</h3>
-    <p class="mt-2 text-gray-700">I'm always exploring new tools. Recently, I've been experimenting with AI app builders like <strong> dyad </strong> and code agents like <strong>sst/opencode</strong>.</p>
-    <a href="https://github.com/GitHubDaily/GitHubDaily" class="text-blue-500 underline mt-2 block" target="_blank">Discover more on GitHub Daily →</a>
-  </div>
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Cfuna22&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
