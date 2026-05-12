@@ -8,17 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I'm currently building: **A decentralized job board (Web3 Upwork) and modern full-stack platforms**  
-- 🌱 Learning: **zk-SNARKs, DeFi, advanced Python, AI Agent systems, and advanced system design**  
-- 🧠 I enjoy solving: **Real-world problems with smart contracts, scalable backends, clean UIs, and data-driven insights**  
-- 💬 Ask me about: **Blockchain development, Solidity/Foundry, modern analytics, AI tooling, or full-stack projects**  
-- 📊 **Analytics & Data Skills:** Translating complex data into actionable insights using tools like **Cabin**, **Plausible**, and building **RAG (Retrieval-Augmented Generation)** systems and **AI Agents** for intelligent automation.
-- ⚡ Fun fact: I love combining **creativity + code + data** to solve real-world problems and build impactful communities!
-
----
-
 ### 🚀 Languages and Tools
 
 #### **Languages & Frameworks**
